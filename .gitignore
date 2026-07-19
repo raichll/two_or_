@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.log
+*.tmp
+models/
+checkpoints/
+data/raw/
+outputs/private/
+2024年大气调度总台账.csv

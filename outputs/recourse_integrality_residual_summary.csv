@@ -1,0 +1,7 @@
+﻿vehicles,method,instances,mean_continuous_wc_objective,mean_integer_wc_objective,mean_integrality_gap,mean_continuous_unresolved,mean_integer_unresolved
+2,deterministic_sir,4,3.298914,3.298914,0.0,0.0,0.0
+2,dro_recourse,4,3.420564,3.420564,0.0,0.0,0.0
+3,deterministic_sir,4,4.19445,4.19445,0.0,0.0,0.0
+3,dro_recourse,4,4.316683,4.316683,0.0,0.0,0.0
+5,deterministic_sir,4,5.418872,5.418872,0.0,0.0,0.0
+5,dro_recourse,4,5.419413,5.419413,0.0,0.0,0.0

@@ -1,0 +1,6 @@
+﻿method,batches,mean_positives_found,mean_positive_coverage,mean_worst_case_objective,mean_realized_recourse_value,mean_positives_per_patrol_hour,mean_distance_km,mean_overtime_hours,mean_expected_unresolved_count,mean_positives_per_100km,mean_selected_candidate_neighbors_5km,mean_selected_nearest_candidate_km,mean_selected_nearest_selected_km,mean_clustered_selected_share,mean_isolated_high_risk_selected,mean_clustered_moderate_risk_selected
+deterministic_sir,12,3.25,0.726371,3.129309,3.455547,0.207064,163.784588,0.085853,0.40625,1.949859,7.822976,1.066011,1.599272,0.935046,0.833333,8.333333
+dro_recourse,12,3.0,0.651275,3.831102,2.528539,0.187654,180.480549,0.510938,0.161458,1.620286,7.058422,1.331221,2.1851,0.909129,0.916667,7.166667
+risk_first,12,2.416667,0.575938,2.295108,1.565293,0.153748,216.481854,0.123605,0.640625,1.184252,7.075132,1.854416,3.365775,0.880463,1.166667,4.25
+saa_no_recourse,12,3.333333,0.674423,3.386286,1.733903,0.195037,194.552982,1.329961,0.028646,1.677666,7.217291,1.624054,2.383544,0.902703,1.166667,7.25
+two_stage_recourse,12,3.083333,0.679053,3.745771,2.894166,0.195066,185.856277,0.346331,0.205729,1.613555,7.0649,1.321279,2.204142,0.904106,1.0,6.333333

@@ -1,0 +1,6 @@
+﻿method,baseline,metric,paired_batches,method_mean,baseline_mean,mean_difference,relative_change_pct,bootstrap_ci_low,bootstrap_ci_high,wilcoxon_p
+calibrated_point_route,uncalibrated_point_route,positives_found,12,3.083333,3.416667,-0.333333,-9.756,-0.75,0.0,0.174094
+calibrated_point_route,uncalibrated_point_route,positive_coverage,11,0.664305,0.785518,-0.121212,-15.431,-0.242424,0.0,0.163479
+calibrated_point_route,uncalibrated_point_route,positives_per_patrol_hour,12,0.188702,0.214289,-0.025586,-11.94,-0.049506,-0.004821,0.077556
+calibrated_point_route,uncalibrated_point_route,distance_km,12,164.703639,151.653591,13.050048,8.605,-2.472326,30.707397,0.233398
+calibrated_point_route,uncalibrated_point_route,expected_unresolved_count,12,0.179688,2.401042,-2.221354,-92.516,-2.986979,-1.518229,0.000488

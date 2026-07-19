@@ -1,0 +1,16 @@
+﻿radius_km,method,batches,mean_clustered_selected_share,mean_selected_neighbor_count
+2.0,deterministic_sir,12,0.87074,5.577054
+2.0,dro_recourse,12,0.845658,5.059772
+2.0,risk_first,12,0.798308,5.169468
+2.0,saa_no_recourse,12,0.830342,5.16055
+2.0,two_stage_recourse,12,0.845537,5.070598
+5.0,deterministic_sir,12,0.935046,7.822976
+5.0,dro_recourse,12,0.909129,7.058422
+5.0,risk_first,12,0.880463,7.075132
+5.0,saa_no_recourse,12,0.902703,7.217291
+5.0,two_stage_recourse,12,0.904106,7.0649
+10.0,deterministic_sir,12,0.983877,11.980387
+10.0,dro_recourse,12,0.969346,10.566685
+10.0,risk_first,12,0.936962,10.717257
+10.0,saa_no_recourse,12,0.958363,10.685792
+10.0,two_stage_recourse,12,0.972501,11.037583

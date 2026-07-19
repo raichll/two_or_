@@ -1,0 +1,7 @@
+﻿scenario_mode,method,instances,mean_worst_case_objective,mean_realized_recourse_value,mean_positive_coverage,mean_distance_km,mean_expected_unresolved_count
+independent,deterministic_sir,4,3.557391,6.251024,0.944445,178.659301,0.0
+independent,dro_recourse,4,3.581249,6.252421,0.944445,183.733001,0.0
+independent,two_stage_recourse,4,3.540147,5.409952,0.791667,207.552805,0.0
+spatial_correlated,deterministic_sir,4,3.802821,6.251024,0.944445,178.659301,0.0
+spatial_correlated,dro_recourse,4,3.913408,5.984971,0.916667,184.521883,0.0
+spatial_correlated,two_stage_recourse,4,3.826664,6.252328,0.944445,184.198472,0.0
