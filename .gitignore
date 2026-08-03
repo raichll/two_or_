@@ -9,4 +9,5 @@ models/
 checkpoints/
 data/raw/
 outputs/private/
+*.tiff
 2024年大气调度总台账.csv
